@@ -1,0 +1,6 @@
+{
+  "name": "Moon Girl",
+  "description": "Hệ thống tập trung biến thành những viên gạch xây dựng ngôi nhà mơ ước của bạn",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
